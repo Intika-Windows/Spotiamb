@@ -10,6 +10,8 @@ This is the source code to the Spotiamb UI. The actual Spotify protocol code
 is proprietary and is bundled as a pre-built .obj file that can be used on
 Windows systems.
 
+Here is the web site of the project: https://spotiamb.com
+
 License:
 --------
 The Spotify pre-built library is provided for non-commercial use only and
