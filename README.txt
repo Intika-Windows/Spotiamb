@@ -1,12 +1,12 @@
 Copyright (C) 2015 Spotify AB
 
 *****************
-** Spotiamp UI **
+** Spotiamb UI **
 *****************
 
 Description:
 ------------
-This is the source code to the Spotiamp UI. The actual Spotify protocol code
+This is the source code to the Spotiamb UI. The actual Spotify protocol code
 is proprietary and is bundled as a pre-built .obj file that can be used on
 Windows systems.
 
